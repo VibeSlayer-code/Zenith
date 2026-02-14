@@ -1,6 +1,6 @@
 # Zenith
 
-Zenith is a modern, high-performance interpreted language designed for simplicity, readability, and power. Built with Rust, it bridges the gap between easy-to-learn scripting languages and robust systems programming.
+Zenith is a modern, open-source(soon), high-performance interpreted language designed for simplicity, readability, and power. Built with Rust, it bridges the gap between easy-to-learn scripting languages and robust systems programming.
 
 ## Features
 
@@ -12,3 +12,5 @@ Zenith is a modern, high-performance interpreted language designed for simplicit
 
 For full documentation, tutorials, and API references, please visit:
 [Zenith Documentation](https://zenith-docs-gamma.vercel.app/#intro)
+
+This project was developed by only **VibeSlayer**. Contributions will be open after the source-code is released
