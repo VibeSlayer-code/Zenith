@@ -14,3 +14,5 @@ For full documentation, tutorials, and API references, please visit:
 [Zenith Documentation](https://zenith-docs-gamma.vercel.app/#intro)
 
 This project was developed by only **VibeSlayer**. Contributions will be open after the source-code is released
+
+## Zenith is a brand new release, expect bugs and memory leaks. 
